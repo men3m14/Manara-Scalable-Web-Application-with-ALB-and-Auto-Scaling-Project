@@ -91,7 +91,7 @@ Look at the documentaion for more details
 9. **Configure Monitoring & Alerts**
     - Create SNS topic for email notifications.
        <img width="975" height="314" alt="image" src="https://github.com/user-attachments/assets/bbab65b5-65cc-4751-bb4a-102123d24731" />
-    - Configure Composite Alarm ( CPU > 50% AND ASG at max capacity).  
+    - Configure Composite Alarm ( CPU > 50%).  
        ![WhatsApp Image 2025-08-16 at 15 10 15_a8a392fb](https://github.com/user-attachments/assets/aeeba95a-13ba-4b1b-8366-9ba2a81cc0eb)
 
 10.**The Result**

@@ -15,8 +15,8 @@ This project deploys a **highly available and scalable web application** on AWS 
 The architecture ensures **fault tolerance, elasticity, and cost optimization**.  
 Optional integration with **Amazon RDS** provides a managed relational database backend.  
 
-![Architecture Diagram](<img width="1156" height="640" alt="architecture-diagram" src="https://github.com/user-attachments/assets/43130c79-a68e-4f80-a6b8-97bf10e91ad8" />
-)
+![Architecture Diagram]<img width="1156" height="640" alt="architecture-diagram" src="https://github.com/user-attachments/assets/43130c79-a68e-4f80-a6b8-97bf10e91ad8" />
+
 
 ---
 
